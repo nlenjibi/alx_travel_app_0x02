@@ -7,3 +7,4 @@ celery>=5.4.0
 amqp>=5.0.0
 mysqlclient>=2.1.0
 rabbitmq==0.2.0
+requests>=2.32.0
